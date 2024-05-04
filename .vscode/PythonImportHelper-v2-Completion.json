@@ -1,0 +1,761 @@
+[
+    {
+        "label": "Singleton",
+        "importPath": "framework.core.singleton",
+        "description": "framework.core.singleton",
+        "isExtraImport": true,
+        "detail": "framework.core.singleton",
+        "documentation": {}
+    },
+    {
+        "label": "Singleton",
+        "importPath": "framework.core.singleton",
+        "description": "framework.core.singleton",
+        "isExtraImport": true,
+        "detail": "framework.core.singleton",
+        "documentation": {}
+    },
+    {
+        "label": "Singleton",
+        "importPath": "framework.core.singleton",
+        "description": "framework.core.singleton",
+        "isExtraImport": true,
+        "detail": "framework.core.singleton",
+        "documentation": {}
+    },
+    {
+        "label": "Singleton",
+        "importPath": "framework.core.singleton",
+        "description": "framework.core.singleton",
+        "isExtraImport": true,
+        "detail": "framework.core.singleton",
+        "documentation": {}
+    },
+    {
+        "label": "Singleton",
+        "importPath": "framework.core.singleton",
+        "description": "framework.core.singleton",
+        "isExtraImport": true,
+        "detail": "framework.core.singleton",
+        "documentation": {}
+    },
+    {
+        "label": "Singleton",
+        "importPath": "framework.core.singleton",
+        "description": "framework.core.singleton",
+        "isExtraImport": true,
+        "detail": "framework.core.singleton",
+        "documentation": {}
+    },
+    {
+        "label": "Singleton",
+        "importPath": "framework.core.singleton",
+        "description": "framework.core.singleton",
+        "isExtraImport": true,
+        "detail": "framework.core.singleton",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "framework.core.singleton",
+        "description": "framework.core.singleton",
+        "isExtraImport": true,
+        "detail": "framework.core.singleton",
+        "documentation": {}
+    },
+    {
+        "label": "pygame",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pygame",
+        "description": "pygame",
+        "detail": "pygame",
+        "documentation": {}
+    },
+    {
+        "label": "mixer",
+        "importPath": "pygame",
+        "description": "pygame",
+        "isExtraImport": true,
+        "detail": "pygame",
+        "documentation": {}
+    },
+    {
+        "label": "LocalStorage",
+        "importPath": "framework.core.local_strorage",
+        "description": "framework.core.local_strorage",
+        "isExtraImport": true,
+        "detail": "framework.core.local_strorage",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "framework.core.local_strorage",
+        "description": "framework.core.local_strorage",
+        "isExtraImport": true,
+        "detail": "framework.core.local_strorage",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "Clock",
+        "importPath": "framework.utils.clock",
+        "description": "framework.utils.clock",
+        "isExtraImport": true,
+        "detail": "framework.utils.clock",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "framework.utils.clock",
+        "description": "framework.utils.clock",
+        "isExtraImport": true,
+        "detail": "framework.utils.clock",
+        "documentation": {}
+    },
+    {
+        "label": "Vector2",
+        "importPath": "framework.utils.vector2",
+        "description": "framework.utils.vector2",
+        "isExtraImport": true,
+        "detail": "framework.utils.vector2",
+        "documentation": {}
+    },
+    {
+        "label": "Vector2",
+        "importPath": "framework.utils.vector2",
+        "description": "framework.utils.vector2",
+        "isExtraImport": true,
+        "detail": "framework.utils.vector2",
+        "documentation": {}
+    },
+    {
+        "label": "Vector2",
+        "importPath": "framework.utils.vector2",
+        "description": "framework.utils.vector2",
+        "isExtraImport": true,
+        "detail": "framework.utils.vector2",
+        "documentation": {}
+    },
+    {
+        "label": "Vector2",
+        "importPath": "framework.utils.vector2",
+        "description": "framework.utils.vector2",
+        "isExtraImport": true,
+        "detail": "framework.utils.vector2",
+        "documentation": {}
+    },
+    {
+        "label": "Vector2",
+        "importPath": "framework.utils.vector2",
+        "description": "framework.utils.vector2",
+        "isExtraImport": true,
+        "detail": "framework.utils.vector2",
+        "documentation": {}
+    },
+    {
+        "label": "Vector2",
+        "importPath": "framework.utils.vector2",
+        "description": "framework.utils.vector2",
+        "isExtraImport": true,
+        "detail": "framework.utils.vector2",
+        "documentation": {}
+    },
+    {
+        "label": "Vector2",
+        "importPath": "framework.utils.vector2",
+        "description": "framework.utils.vector2",
+        "isExtraImport": true,
+        "detail": "framework.utils.vector2",
+        "documentation": {}
+    },
+    {
+        "label": "Vector2",
+        "importPath": "framework.utils.vector2",
+        "description": "framework.utils.vector2",
+        "isExtraImport": true,
+        "detail": "framework.utils.vector2",
+        "documentation": {}
+    },
+    {
+        "label": "Vector2",
+        "importPath": "framework.utils.vector2",
+        "description": "framework.utils.vector2",
+        "isExtraImport": true,
+        "detail": "framework.utils.vector2",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "framework.utils.vector2",
+        "description": "framework.utils.vector2",
+        "isExtraImport": true,
+        "detail": "framework.utils.vector2",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "framework.game.entity.entity",
+        "description": "framework.game.entity.entity",
+        "isExtraImport": true,
+        "detail": "framework.game.entity.entity",
+        "documentation": {}
+    },
+    {
+        "label": "Entity",
+        "importPath": "framework.game.entity.entity",
+        "description": "framework.game.entity.entity",
+        "isExtraImport": true,
+        "detail": "framework.game.entity.entity",
+        "documentation": {}
+    },
+    {
+        "label": "Entity",
+        "importPath": "framework.game.entity.entity",
+        "description": "framework.game.entity.entity",
+        "isExtraImport": true,
+        "detail": "framework.game.entity.entity",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "framework.game.entity.entity",
+        "description": "framework.game.entity.entity",
+        "isExtraImport": true,
+        "detail": "framework.game.entity.entity",
+        "documentation": {}
+    },
+    {
+        "label": "log",
+        "importPath": "framework.core.logger",
+        "description": "framework.core.logger",
+        "isExtraImport": true,
+        "detail": "framework.core.logger",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "framework.core.logger",
+        "description": "framework.core.logger",
+        "isExtraImport": true,
+        "detail": "framework.core.logger",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "framework.utils.media_query",
+        "description": "framework.utils.media_query",
+        "isExtraImport": true,
+        "detail": "framework.utils.media_query",
+        "documentation": {}
+    },
+    {
+        "label": "MediaQuery",
+        "importPath": "framework.utils.media_query",
+        "description": "framework.utils.media_query",
+        "isExtraImport": true,
+        "detail": "framework.utils.media_query",
+        "documentation": {}
+    },
+    {
+        "label": "MediaQuery",
+        "importPath": "framework.utils.media_query",
+        "description": "framework.utils.media_query",
+        "isExtraImport": true,
+        "detail": "framework.utils.media_query",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "framework.utils.media_query",
+        "description": "framework.utils.media_query",
+        "isExtraImport": true,
+        "detail": "framework.utils.media_query",
+        "documentation": {}
+    },
+    {
+        "label": "WidgetGroup",
+        "importPath": "framework.game.widget.widget_group",
+        "description": "framework.game.widget.widget_group",
+        "isExtraImport": true,
+        "detail": "framework.game.widget.widget_group",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "framework.game.widget.widget_group",
+        "description": "framework.game.widget.widget_group",
+        "isExtraImport": true,
+        "detail": "framework.game.widget.widget_group",
+        "documentation": {}
+    },
+    {
+        "label": "EntityGroup",
+        "importPath": "framework.game.entity.entity_group",
+        "description": "framework.game.entity.entity_group",
+        "isExtraImport": true,
+        "detail": "framework.game.entity.entity_group",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "framework.game.entity.entity_group",
+        "description": "framework.game.entity.entity_group",
+        "isExtraImport": true,
+        "detail": "framework.game.entity.entity_group",
+        "documentation": {}
+    },
+    {
+        "label": "FallState",
+        "importPath": "framework.game.state.base_state",
+        "description": "framework.game.state.base_state",
+        "isExtraImport": true,
+        "detail": "framework.game.state.base_state",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "framework.game.state.base_state",
+        "description": "framework.game.state.base_state",
+        "isExtraImport": true,
+        "detail": "framework.game.state.base_state",
+        "documentation": {}
+    },
+    {
+        "label": "Widget",
+        "importPath": "framework.game.widget.widget",
+        "description": "framework.game.widget.widget",
+        "isExtraImport": true,
+        "detail": "framework.game.widget.widget",
+        "documentation": {}
+    },
+    {
+        "label": "Widget",
+        "importPath": "framework.game.widget.widget",
+        "description": "framework.game.widget.widget",
+        "isExtraImport": true,
+        "detail": "framework.game.widget.widget",
+        "documentation": {}
+    },
+    {
+        "label": "Widget",
+        "importPath": "framework.game.widget.widget",
+        "description": "framework.game.widget.widget",
+        "isExtraImport": true,
+        "detail": "framework.game.widget.widget",
+        "documentation": {}
+    },
+    {
+        "label": "Widget",
+        "importPath": "framework.game.widget.widget",
+        "description": "framework.game.widget.widget",
+        "isExtraImport": true,
+        "detail": "framework.game.widget.widget",
+        "documentation": {}
+    },
+    {
+        "label": "Widget",
+        "importPath": "framework.game.widget.widget",
+        "description": "framework.game.widget.widget",
+        "isExtraImport": true,
+        "detail": "framework.game.widget.widget",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "framework.game.widget.widget",
+        "description": "framework.game.widget.widget",
+        "isExtraImport": true,
+        "detail": "framework.game.widget.widget",
+        "documentation": {}
+    },
+    {
+        "label": "Widget",
+        "importPath": "framework.game.widget.button",
+        "description": "framework.game.widget.button",
+        "isExtraImport": true,
+        "detail": "framework.game.widget.button",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "framework.game.widget.button",
+        "description": "framework.game.widget.button",
+        "isExtraImport": true,
+        "detail": "framework.game.widget.button",
+        "documentation": {}
+    },
+    {
+        "label": "Assets",
+        "importPath": "framework.core.assets",
+        "description": "framework.core.assets",
+        "isExtraImport": true,
+        "detail": "framework.core.assets",
+        "documentation": {}
+    },
+    {
+        "label": "Assets",
+        "importPath": "framework.core.assets",
+        "description": "framework.core.assets",
+        "isExtraImport": true,
+        "detail": "framework.core.assets",
+        "documentation": {}
+    },
+    {
+        "label": "math",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "math",
+        "description": "math",
+        "detail": "math",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "framework",
+        "description": "framework",
+        "isExtraImport": true,
+        "detail": "framework",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "framework.game.state.state_machine",
+        "description": "framework.game.state.state_machine",
+        "isExtraImport": true,
+        "detail": "framework.game.state.state_machine",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "framework.core.localization",
+        "description": "framework.core.localization",
+        "isExtraImport": true,
+        "detail": "framework.core.localization",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "framework.core.audio_manager",
+        "description": "framework.core.audio_manager",
+        "isExtraImport": true,
+        "detail": "framework.core.audio_manager",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "framework.game.widget.image",
+        "description": "framework.game.widget.image",
+        "isExtraImport": true,
+        "detail": "framework.game.widget.image",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "framework.game.widget.text",
+        "description": "framework.game.widget.text",
+        "isExtraImport": true,
+        "detail": "framework.game.widget.text",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "framework.game.widget.check_box",
+        "description": "framework.game.widget.check_box",
+        "isExtraImport": true,
+        "detail": "framework.game.widget.check_box",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "framework.game.widget.health_bar",
+        "description": "framework.game.widget.health_bar",
+        "isExtraImport": true,
+        "detail": "framework.game.widget.health_bar",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "framework.game.animations.animation",
+        "description": "framework.game.animations.animation",
+        "isExtraImport": true,
+        "detail": "framework.game.animations.animation",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "framework.game.animations.animation_manager",
+        "description": "framework.game.animations.animation_manager",
+        "isExtraImport": true,
+        "detail": "framework.game.animations.animation_manager",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "framework.game.entity.texture",
+        "description": "framework.game.entity.texture",
+        "isExtraImport": true,
+        "detail": "framework.game.entity.texture",
+        "documentation": {}
+    },
+    {
+        "label": "Assets",
+        "kind": 6,
+        "importPath": "framework.core.assets",
+        "description": "framework.core.assets",
+        "peekOfCode": "class Assets(Singleton):\n    ic_blank_check_box = 'framework/assets/blank_check_box.png'\n    ic_selected_check_box = 'framework/assets/selected_check_box.png'\n    font = 'framework/assets/iciel_pony.ttf'",
+        "detail": "framework.core.assets",
+        "documentation": {}
+    },
+    {
+        "label": "AudioManager",
+        "kind": 6,
+        "importPath": "framework.core.audio_manager",
+        "description": "framework.core.audio_manager",
+        "peekOfCode": "class AudioManager(Singleton):\n    background_music = None\n    is_background_music_on = LocalStorage.get_value('isMusicOn', True)\n    is_sound_effects_on = LocalStorage.get_value('isSoundEffectOn', True)\n    def play_background(src):\n        if AudioManager.is_background_music_on:\n            if AudioManager.background_music:\n                mixer.music.stop()\n            mixer.music.load(src)\n            mixer.music.play(-1)",
+        "detail": "framework.core.audio_manager",
+        "documentation": {}
+    },
+    {
+        "label": "Localization",
+        "kind": 6,
+        "importPath": "framework.core.localization",
+        "description": "framework.core.localization",
+        "peekOfCode": "class Localization(Singleton):\n    language = 'en'\n    languages = set()\n    strings = dict()\n    languages = {'vi', 'en'}\n    strings = {\n        'en': {\n            'all_settings': 'Setting', \n            'all_back': 'Back', \n            'all_continue': 'Continue', ",
+        "detail": "framework.core.localization",
+        "documentation": {}
+    },
+    {
+        "label": "LocalStorage",
+        "kind": 6,
+        "importPath": "framework.core.local_strorage",
+        "description": "framework.core.local_strorage",
+        "peekOfCode": "class LocalStorage(Singleton):\n    file_path = 'framework/local_storage/local.json'\n    with open(file_path, 'r') as file:\n        data = json.load(file)\n    def get_value(key, dafault_value):\n        if key in LocalStorage.data:\n            return LocalStorage.data[key]\n        else:\n            return dafault_value\n    def put_value(key, value):",
+        "detail": "framework.core.local_strorage",
+        "documentation": {}
+    },
+    {
+        "label": "log",
+        "kind": 2,
+        "importPath": "framework.core.logger",
+        "description": "framework.core.logger",
+        "peekOfCode": "def log(tag, msg):\n    print(f'[{str(tag.__class__.__name__).capitalize}]: {str(msg).capitalize}')",
+        "detail": "framework.core.logger",
+        "documentation": {}
+    },
+    {
+        "label": "Singleton",
+        "kind": 6,
+        "importPath": "framework.core.singleton",
+        "description": "framework.core.singleton",
+        "peekOfCode": "class Singleton:\n    instance = None\n    def __new__(cls):\n        if cls.instance is None:\n            cls.instance = super().__new__(cls)\n        return cls.instance\n# singleton pattern",
+        "detail": "framework.core.singleton",
+        "documentation": {}
+    },
+    {
+        "label": "Animation",
+        "kind": 6,
+        "importPath": "framework.game.animations.animation",
+        "description": "framework.game.animations.animation",
+        "peekOfCode": "class Animation:\n    '''\n    Base class for all animations.\n    src - path to the folder containing the frames\n    frame_count - number of frames in the animation\n    entity - the entity that the animation is attached to\n    delay - delay between frames\n    '''\n    frame_count = 0\n    def __init__(self, src: str = None, frame_count: int = None, entity = None, delay: int = 0):",
+        "detail": "framework.game.animations.animation",
+        "documentation": {}
+    },
+    {
+        "label": "ActionAnimation",
+        "kind": 6,
+        "importPath": "framework.game.animations.animation",
+        "description": "framework.game.animations.animation",
+        "peekOfCode": "class ActionAnimation(Animation):\n    '''\n    Animation that plays once and stops.\n    '''\n    def __init__(self, src: str = None, frame_count: int = None, entity = None, delay: int = 0):\n        super().__init__(src=src, frame_count=frame_count, entity=entity, delay=delay)\n    def __reset__(self):\n        self.isStart = True\n        super().__reset__()\n    def __next_frame__(self):",
+        "detail": "framework.game.animations.animation",
+        "documentation": {}
+    },
+    {
+        "label": "RepeatAnimation",
+        "kind": 6,
+        "importPath": "framework.game.animations.animation",
+        "description": "framework.game.animations.animation",
+        "peekOfCode": "class RepeatAnimation(Animation):\n    '''\n    Animation that plays repeatedly.\n    '''\n    def __init__(self, src: str, frame_count: int, entity, delay: int = 0):\n        super().__init__(src=src, frame_count=frame_count, entity=entity, delay=delay)",
+        "detail": "framework.game.animations.animation",
+        "documentation": {}
+    },
+    {
+        "label": "AnimationManager",
+        "kind": 6,
+        "importPath": "framework.game.animations.animation_manager",
+        "description": "framework.game.animations.animation_manager",
+        "peekOfCode": "class AnimationManager:\n    '''\n    When you want to use animation, you must create a AnimationManager object.\n    AnimationManager has two dictionaries: action_animation and repeat_animation.\n    action_animation is a dictionary that contains ActionAnimation objects.\n    repeat_animation is a dictionary that contains RepeatAnimation objects.\n    You can use play_action() to play an action animation.\n    You can use change_animation() to change a repeat animation.\n    '''\n    def __init__(self, action_animation: dict = None, repeat_animation: dict = None, current_animation: str = None):",
+        "detail": "framework.game.animations.animation_manager",
+        "documentation": {}
+    },
+    {
+        "label": "Entity",
+        "kind": 6,
+        "importPath": "framework.game.entity.entity",
+        "description": "framework.game.entity.entity",
+        "peekOfCode": "class Entity:\n    '''\n    Entity is the base class for all game objects.\n    position: Vector2 - the position of the entity\n    hitbox: Vector2 - the size of the entity and the hitbox\n    '''\n    def __init__(self, hitbox: Vector2 = None, position: Vector2 = None, size: Vector2 = None, offset: Vector2 = Vector2(0, 0)):\n        if(self.__class__.__name__ == 'Entity'):\n            raise Exception(\"Entity cannot be instantiated\")\n        if(position == None):",
+        "detail": "framework.game.entity.entity",
+        "documentation": {}
+    },
+    {
+        "label": "EntityGroup",
+        "kind": 6,
+        "importPath": "framework.game.entity.entity_group",
+        "description": "framework.game.entity.entity_group",
+        "peekOfCode": "class EntityGroup:\n    '''\n    EntityGroup is a group of entities.\n    entities: list - the list of entities\n    '''\n    def __init__(self):\n        self.sort_by_possition = True\n        self.entities = []\n    def add(self, entity: Entity):\n        self.entities.append(entity)",
+        "detail": "framework.game.entity.entity_group",
+        "documentation": {}
+    },
+    {
+        "label": "Texture",
+        "kind": 6,
+        "importPath": "framework.game.entity.texture",
+        "description": "framework.game.entity.texture",
+        "peekOfCode": "class Texture:\n    '''\n    Texture is a class that represents a texture of an entity.\n    '''\n    def __init__(self, texture: str = None, entity = None):\n        if(texture == None):\n            raise Exception(\"Texture must have a texture source\")\n        if(entity == None):\n            raise Exception(\"Texture must have an entity\")\n        self.texture = texture",
+        "detail": "framework.game.entity.texture",
+        "documentation": {}
+    },
+    {
+        "label": "BaseState",
+        "kind": 6,
+        "importPath": "framework.game.state.base_state",
+        "description": "framework.game.state.base_state",
+        "peekOfCode": "class BaseState:\n    '''\n    class BaseState\n    background: str - the path to the background image\n    '''\n    def __init__(self, background: str = None):\n        if(self.__class__.__name__ == 'BaseState'):\n            raise Exception(\"BaseState cannot be instantiated\")\n        if(background == None):\n            raise Exception(\"BaseState must have a background\")",
+        "detail": "framework.game.state.base_state",
+        "documentation": {}
+    },
+    {
+        "label": "FallState",
+        "kind": 6,
+        "importPath": "framework.game.state.base_state",
+        "description": "framework.game.state.base_state",
+        "peekOfCode": "class FallState(BaseState):\n    def __init__(self, background=''):\n        super().__init__(background)\n    def __render__(self, display):\n        display.fill((255, 0, 0))",
+        "detail": "framework.game.state.base_state",
+        "documentation": {}
+    },
+    {
+        "label": "StateMachine",
+        "kind": 6,
+        "importPath": "framework.game.state.state_machine",
+        "description": "framework.game.state.state_machine",
+        "peekOfCode": "class StateMachine(Singleton):\n    '''\n    class StateMachine\n    states: list - the list of states\n    navigate between states\n    '''\n    __states__ = []        \n    def push(state):\n        StateMachine.__current_state__().__on_pause__()\n        state.__init_state__()",
+        "detail": "framework.game.state.state_machine",
+        "documentation": {}
+    },
+    {
+        "label": "Button",
+        "kind": 6,
+        "importPath": "framework.game.widget.button",
+        "description": "framework.game.widget.button",
+        "peekOfCode": "class Button(Widget):\n    '''\n    Button is a widget that can be clicked.\n    callback: callable - the function that is called when the button is clicked\n    '''\n    def __init__(self, text: str = None, callback: callable = None, size: Vector2 = None, position: Vector2 = Vector2(0, 0), font = MediaQuery.font_family, font_size: int = MediaQuery.font_size, delay_time: int = 1):\n        super().__init__(position=position, size=size)\n        if(text == None):\n            raise Exception(\"Button must have a text\")\n        if not callable(callback):",
+        "detail": "framework.game.widget.button",
+        "documentation": {}
+    },
+    {
+        "label": "ImageButton",
+        "kind": 6,
+        "importPath": "framework.game.widget.button",
+        "description": "framework.game.widget.button",
+        "peekOfCode": "class ImageButton(Button):\n    '''\n    ImageButton is a button that has an image as background.\n    background: str - the path to the background image\n    '''\n    def __init__(self, background: str = None, callback: callable = None, size:Vector2 = None, position: Vector2 = None, scale = 1, text = \"\", font = MediaQuery.font_family, font_size: int = MediaQuery.font_size):\n        if(background == None):\n            raise Exception(\"ImageButton must have a background\")\n        self.image = pygame.image.load(background)\n        self.image = pygame.transform.scale(self.image, (int(self.image.get_width() * scale), int(self.image.get_height() * scale)))",
+        "detail": "framework.game.widget.button",
+        "documentation": {}
+    },
+    {
+        "label": "ImageButtonWithIcon",
+        "kind": 6,
+        "importPath": "framework.game.widget.button",
+        "description": "framework.game.widget.button",
+        "peekOfCode": "class ImageButtonWithIcon(Button):\n    '''\n    ImageButtonWithIcon is a image button that has an image as leading icon.\n    background: str - the path to the background image\n    icon: str - the path to the icon image\n    '''\n    def __init__(self, background: str = None, icon: str = None, callback: callable = None, size:Vector2 = None, position: Vector2 = None, scale = 1, text = \"\", font = MediaQuery.font_family, font_size: int = MediaQuery.font_size):\n        if(background == None):\n            raise Exception(\"ImageButtonWithIcon must have a background\")\n        if(icon == None):",
+        "detail": "framework.game.widget.button",
+        "documentation": {}
+    },
+    {
+        "label": "CheckBox",
+        "kind": 6,
+        "importPath": "framework.game.widget.check_box",
+        "description": "framework.game.widget.check_box",
+        "peekOfCode": "class CheckBox(Widget):\n    '''\n    CheckBox is a widget that can be clicked and has two states: selected and unselected.\n    callback: callable - the function that is called when the button is clicked\n    selected_src: str - the path to the image that is displayed when the checkbox is selected\n    unselected_src: str - the path to the image that is displayed when the checkbox is unselected\n    selected: bool - the initial state of the checkbox\n    selected_src and unselected_src are optional. If they are not provided, the default images will be used.\n    the function that is called when the checkbox is clicked must accept a boolean parameter.\n    exp: def callback(selected: bool):",
+        "detail": "framework.game.widget.check_box",
+        "documentation": {}
+    },
+    {
+        "label": "HealthBar",
+        "kind": 6,
+        "importPath": "framework.game.widget.health_bar",
+        "description": "framework.game.widget.health_bar",
+        "peekOfCode": "class HealthBar(Widget):\n    def __init__(self, size: Vector2 = None, entity: Entity = None, offset: Vector2 = None):\n        if(entity == None):\n            raise Exception(\"HealthBar must have an entity\")\n        if(offset == None):\n            raise Exception(\"HealthBar must have an offset\")\n        super().__init__(position=entity.position + offset, size=size)\n        self.entity = entity\n        self.max = self.entity.max_hp\n        self.current = self.entity.hp",
+        "detail": "framework.game.widget.health_bar",
+        "documentation": {}
+    },
+    {
+        "label": "Image",
+        "kind": 6,
+        "importPath": "framework.game.widget.image",
+        "description": "framework.game.widget.image",
+        "peekOfCode": "class Image(Widget):\n    '''\n    Image is a widget that displays an image.\n    image: str - the image to display\n    '''\n    def __init__(self, src: str = None, position: Vector2 = None, size: Vector2 = None, scale: Vector2 = Vector2(1, 1)):\n        if(src == None):\n            raise Exception(\"Image must have an image\")\n        if(not scale.is_positive()):\n            raise Exception(\"Scale must be positive\")",
+        "detail": "framework.game.widget.image",
+        "documentation": {}
+    },
+    {
+        "label": "Text",
+        "kind": 6,
+        "importPath": "framework.game.widget.text",
+        "description": "framework.game.widget.text",
+        "peekOfCode": "class Text(Widget):\n    '''\n    Text is a widget that displays text.\n    text: str - the text to display\n    font: str - the path to the font file\n    font_size: int - the size of the font\n    color: tuple - the color of the text\n    '''\n    def __init__(self, text: str = None, position: Vector2 = None, size: Vector2 = None, font: str = MediaQuery.font_family, font_size: int = MediaQuery.font_size, color: tuple = (255, 255, 255)):\n        if(text == None):",
+        "detail": "framework.game.widget.text",
+        "documentation": {}
+    },
+    {
+        "label": "Widget",
+        "kind": 6,
+        "importPath": "framework.game.widget.widget",
+        "description": "framework.game.widget.widget",
+        "peekOfCode": "class Widget:\n    '''\n    Widget is the base class for all widgets.\n    position: Vector2 - the position of the widget\n    size: Vector2 - the size of the widget\n    '''\n    def __init__(self, position: Vector2, size: Vector2):\n        if(self.__class__.__name__ == 'Widget'):\n            raise Exception(\"Widget cannot be instantiated\")\n        if(position == None):",
+        "detail": "framework.game.widget.widget",
+        "documentation": {}
+    },
+    {
+        "label": "WidgetGroup",
+        "kind": 6,
+        "importPath": "framework.game.widget.widget_group",
+        "description": "framework.game.widget.widget_group",
+        "peekOfCode": "class WidgetGroup:\n    '''\n    WidgetGroup is a group of widgets.\n    widgets: list - the list of widgets\n    '''\n    def __init__(self):\n        self.widgets = []\n    def add(self, widget: Widget):\n        self.widgets.append(widget)\n    def remove(self, widget: Widget):",
+        "detail": "framework.game.widget.widget_group",
+        "documentation": {}
+    },
+    {
+        "label": "Clock",
+        "kind": 6,
+        "importPath": "framework.utils.clock",
+        "description": "framework.utils.clock",
+        "peekOfCode": "class Clock(Singleton):\n    time = 0\n    delta_time = 0\n    def __update__(event):\n        Clock.delta_time = (pygame.time.get_ticks() - Clock.time) / 1000\n        Clock.time = pygame.time.get_ticks()",
+        "detail": "framework.utils.clock",
+        "documentation": {}
+    },
+    {
+        "label": "MediaQuery",
+        "kind": 6,
+        "importPath": "framework.utils.media_query",
+        "description": "framework.utils.media_query",
+        "peekOfCode": "class MediaQuery(Singleton):\n    '''\n    MediaQuery is a singleton class that contains the size of the window and the aspect ratio.\n    '''\n    size = Vector2(1200, 800)\n    aspect_ratio = size.x / size.y\n    font_family = Assets.font\n    font_size = 32",
+        "detail": "framework.utils.media_query",
+        "documentation": {}
+    },
+    {
+        "label": "Vector2",
+        "kind": 6,
+        "importPath": "framework.utils.vector2",
+        "description": "framework.utils.vector2",
+        "peekOfCode": "class Vector2():\n    '''\n    Vector2 class\n    x: float - the x coordinate\n    y: float - the y coordinate\n    '''\n    def __init__(self, x: float, y: float):\n        self.x = x\n        self.y = y\n    def to_tuple(self):",
+        "detail": "framework.utils.vector2",
+        "documentation": {}
+    }
+]
